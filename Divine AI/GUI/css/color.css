@@ -1,0 +1,27 @@
+.black-bg {
+	background-color: #222831;
+}
+.darkblue-bg {
+	background-color: #2b2e4a;
+}
+.darkpink-bg{
+	background-color: #e8a6c2
+}
+.pinkish-bg{
+	background-color: #a56580b1
+}
+.lightgray-bg {
+	background-color: #c18aa1aa;
+}
+.tomato-bg {
+	background-color: #e84545;
+}
+.tomato-col {
+	color: #EEE;
+}
+.tomato-col:hover {
+	color: #a0949b;
+}
+.light-bg {
+	background-color: #EEE;
+}
