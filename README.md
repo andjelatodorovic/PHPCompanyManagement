@@ -1,2 +1,3 @@
-# PHPCompanyManagement
-My demo project for the third year course of Web programming. The main idea was to create an useful tool to manage workers and jobs inside of the company. Technologies used: PHP, MySQL, Bootstrap
+# Projekat iz Web Programiranja - upravljanje softverskom kompanijom
+
+Glavna ideja projekta bila je implementirati landing stranicu softverske kompanije, koja ce u pozadini sadrzati kompleksniju web aplikaciju pomocu koje bi administrator mogao da upravlja profilima radnika, zadacima i radnim mestima. 
